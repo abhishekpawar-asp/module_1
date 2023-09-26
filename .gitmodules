@@ -7,3 +7,6 @@
 [submodule "V2"]
 	path = V2
 	url = https://github.com/abhishekpawar-asp/submodule_test.git
+[submodule "submodule_test"]
+	path = submodule_test
+	url = https://github.com/abhishekpawar-asp/submodule_test.git
